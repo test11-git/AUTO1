@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="239924" started-at="2021-08-09T02:16:16 IST" finished-at="2021-08-09T02:20:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="239924" started-at="2021-08-09T02:16:16 IST" finished-at="2021-08-09T02:20:16 IST">
+      <class name="com.auto1.testcases.AutoSearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.auto1.testcases.AutoSearchTest@4cf4d528]" name="setUp" is-config="true" duration-ms="8194" started-at="2021-08-09T02:16:08 IST" finished-at="2021-08-09T02:16:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setReport()[pri:0, instance:com.auto1.testcases.AutoSearchTest@4cf4d528]" name="setReport" is-config="true" duration-ms="640" started-at="2021-08-09T02:16:16 IST" finished-at="2021-08-09T02:16:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method status="PASS" signature="TC1(java.util.Hashtable)[pri:0, instance:com.auto1.testcases.AutoSearchTest@4cf4d528]" name="TC1" duration-ms="237096" started-at="2021-08-09T02:16:17 IST" data-provider="dp" finished-at="2021-08-09T02:20:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{mileage=25.000 km, type=Golf, brand=Volkswagen}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.auto1.testcases.AutoSearchTest@4cf4d528]" name="tearDown" is-config="true" duration-ms="1154" started-at="2021-08-09T02:20:14 IST" finished-at="2021-08-09T02:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.auto1.testcases.AutoSearchTest@4cf4d528]" name="endReport" is-config="true" duration-ms="852" started-at="2021-08-09T02:20:15 IST" finished-at="2021-08-09T02:20:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.auto1.testcases.AutoSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

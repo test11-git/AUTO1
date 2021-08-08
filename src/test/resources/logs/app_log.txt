@@ -1,0 +1,5 @@
+INFO    2021-08-09 02:16:08,501 [main] devpinoyLogger  - Config file loaded !!!
+INFO    2021-08-09 02:16:12,445 [main] devpinoyLogger  - Chrome Launched !!!
+INFO    2021-08-09 02:16:16,381 [main] devpinoyLogger  - Navigated to : https://www.autohero.com/de/search/
+INFO    2021-08-09 02:16:20,393 [main] devpinoyLogger  - Inside Search Test
+INFO    2021-08-09 02:20:14,461 [main] devpinoyLogger  - Search functionality successfully completed
